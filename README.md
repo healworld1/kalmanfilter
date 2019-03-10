@@ -1,3 +1,5 @@
+![](ezgif.com-gif-maker.gif)
+
 # Project: Kalman Filters
 
 ## Introduction
